@@ -1,0 +1,5 @@
+{
+ "data_root": "data",
+ "liberty_dir": "data/asap7/lib/NLDM",
+ "runs_root": "runs"
+}
